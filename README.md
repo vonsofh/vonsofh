@@ -1,4 +1,4 @@
-### Introduction
+### Introductions
 - 👋 Hi, I’m @vonsofh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python

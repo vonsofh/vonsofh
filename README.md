@@ -8,3 +8,4 @@
 ### Donation Links
 - [Buy Me A Coffee](https://bit.ly/vonsofh-buymeacoffee)
 - [Trakteer](https://bit.ly/vonsofh-trakteerid)
+- [Saweria](https://bit.ly/vonsofh-saweria)
